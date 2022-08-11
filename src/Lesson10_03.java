@@ -1,3 +1,4 @@
+
 public class Lesson10_03 {
   public static void main(String[] args) {
     int age = 18;

@@ -1,3 +1,4 @@
+
 public class Lesson06_05 {
   public static void main(String[] args){
     int VAR = 1;

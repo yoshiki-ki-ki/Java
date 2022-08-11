@@ -1,3 +1,4 @@
+
 public class Lesson09_05 {
   public static void main(String[] args){
     int x = 10;

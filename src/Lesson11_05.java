@@ -1,3 +1,4 @@
+
 public class Lesson11_05 {
   public static void main(String[] args){
     int arr[] = {2,4,6,8,10};

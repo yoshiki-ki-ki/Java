@@ -1,3 +1,4 @@
+
 public class Lesson07_01 {
   public static void main(String[] args) {
     // -100～100まで

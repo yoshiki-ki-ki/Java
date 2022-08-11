@@ -1,3 +1,4 @@
+
 public class Lesson08_05 {
   public static void main(String[] args){
     String[][] arr = {{"sato","suzuki"},{"takahashi","tanaka"}};

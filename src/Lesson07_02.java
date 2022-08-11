@@ -1,3 +1,4 @@
+
 public class Lesson07_02 {
   public static void main(String[] args){
     // 小数点以下の桁数が多く扱える。

@@ -1,3 +1,4 @@
+
 public class Lesson07_03 {
   public static void main(String[] args){
     // 文字列1文字とシングルクォーテーションを利用。
