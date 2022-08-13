@@ -1,5 +1,9 @@
 package practice;
 
+/* １から10までの二つの乱数を発生させ、それぞれa,bという変数に代入して表示し、
+aのほうが大きければ、”aのほうが大きいです。”と表示し、
+bのほうが大きければ”bのほうが大きいです。”と表示し、
+そうでなければ、”等しいです”と表示するプログラムを作りなさい。 */
 public class prob3_14 {
   public static void main(String[] args){
     int a = (int)(Math.random()*10)+1;
