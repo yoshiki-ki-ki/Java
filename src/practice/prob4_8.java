@@ -1,5 +1,8 @@
 package practice;
 
+/*whileの無限ループを作り、その中で、１から１０までの乱数を発生させて、
+表示しなさい。その際、値が１０になったら、
+ループを抜け、”終了します”と表示してプログラムを終えるようにしなさい。 */
 public class prob4_8 {
   public static void main(String[] args){
     while (true){

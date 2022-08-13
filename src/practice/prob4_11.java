@@ -1,5 +1,6 @@
 package practice;
-
+/*forループを用いて、１から100までの乱数を５回発生させ、
+表示し、終了後その中の最大値を表示しなさい。 */
 public class prob4_11 {
   public static void main(String[] args) {
     int[] arr = new int[1];
